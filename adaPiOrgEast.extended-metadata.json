@@ -1,1 +1,39 @@
-
+{
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "",
+    "location": "United States",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "ADA.Pi",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "ADA.Pi",
+      "addr": "Box #358, 38713 Tierra Subida Avenue #200",
+      "city": "Palmdale, CA",
+      "country": "United States",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "Raspberry Pi 4",
+      "company": "ada-pi.io is an education hub specializing in Raspberry Pi stake pool operations."
+    },
+    "rss": ""
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+  ],
+  "when-satured-then-recommend": [
+    "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+  ]
+}
