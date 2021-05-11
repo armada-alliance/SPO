@@ -1,7 +1,7 @@
 {
-  "name": "PIADA ada-pi.io",
-  "description": "Raspberry Pi Stake Pool Education",
+  "name": "PIADA",
+  "description": "Stake pool education hub for Raspberry Pi and ARM 64-bit SoC based low power devices.",
   "ticker": "PIADA",
-  "homepage": "https://ada-pi.io",
-  "extended": "https://ada-pi.io/adaPiOrgEast.extended-metadata.json"
+  "homepage": "https://piada.io",
+  "extended": "https://piada.io/adaPiOrgEast.extended.json"
 }

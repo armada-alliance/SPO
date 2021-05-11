@@ -1,20 +1,17 @@
 {
   "info": {
-    "url_png_icon_64x64": "",
-    "url_png_logo": "",
-    "location": "United States",
+    "url_png_icon_64x64": "https://piada.io/wp-content/uploads/2021/04/pool-logo-64-64.png",
+    "url_png_logo": "https://piada.io/wp-content/uploads/2021/04/pool-logo-full.png",
+    "location": "Virginia, USA",
     "social": {
-      "twitter_handle": "",
-      "telegram_handle": "",
-      "facebook_handle": "",
-      "youtube_handle": "",
-      "twitch_handle": "",
-      "discord_handle": "ADA.Pi",
-      "github_handle": ""
+      "twitter_handle": "StakePiada",
+      "telegram_handle": "piadapool",
+      "youtube_handle": "channel/UCligunhcmbMYaBUMvONsKwg",
+      "github_handle": "armada-alliance"
     },
     "company": {
-      "name": "ADA.Pi",
-      "addr": "Box #358, 38713 Tierra Subida Avenue #200",
+      "name": "Piada",
+      "addr": "",
       "city": "Palmdale, CA",
       "country": "United States",
       "company_id": "",
@@ -22,18 +19,19 @@
     },
     "about": {
       "me": "",
-      "server": "Raspberry Pi 4",
-      "company": "ada-pi.io is an education hub specializing in Raspberry Pi stake pool operations."
+      "server": "Raspberry Pi 4B 8GB",
+      "company": "piada.io is an education hub specializing in Raspberry Pi and ARM 64-bit SoC based stake pool operations."
     },
     "rss": ""
   },
-  "telegram-admin-handle": [
-    ""
-  ],
+  "telegram-admin-handle": {
+        "0": "eastpiada",
+        "1": "Qwailman"
+  },
   "my-pool-ids": [
     "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
   ],
   "when-satured-then-recommend": [
-    "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
+    "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
   ]
 }
