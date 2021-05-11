@@ -18,8 +18,8 @@
       "vat_id": ""
     },
     "about": {
-      "me": "",
-      "server": "Raspberry Pi 4B 8GB",
+      "me": "https://armada-alliance.gitbook.io/raspi-spo/",
+      "server": "3 x Raspberry Pi 4B 8GB",
       "company": "piada.io is an education hub specializing in Raspberry Pi and ARM 64-bit SoC based stake pool operations."
     },
     "rss": ""
