@@ -1,7 +1,7 @@
 {
   "info": {
-    "url_png_icon_64x64": "https://piada.io/wp-content/uploads/2021/04/pool-logo-64-64.png",
-    "url_png_logo": "https://piada.io/wp-content/uploads/2021/04/pool-logo-full.png",
+    "url_png_icon_64x64": "https://piada.io/piada64.png",
+    "url_png_logo": "https://piada.io/piadaFull.png",
     "location": "Virginia, USA",
     "social": {
       "twitter_handle": "StakePiada",
@@ -10,9 +10,9 @@
       "github_handle": "armada-alliance"
     },
     "company": {
-      "name": "Piada",
+      "name": "PIADA",
       "addr": "",
-      "city": "Palmdale, CA",
+      "city": "",
       "country": "United States",
       "company_id": "",
       "vat_id": ""
@@ -25,8 +25,8 @@
     "rss": ""
   },
   "telegram-admin-handle": {
-        "0": "eastpiada",
-        "1": "Qwailman"
+    "0": "eastpiada",
+    "1": "Qwailman"
   },
   "my-pool-ids": [
     "b8d8742c7b7b512468448429c776b3b0f824cef460db61aa1d24bc65"
@@ -35,3 +35,4 @@
     "8264de3cdb1798dd8758e24cda5101184b44543e7c4421c7815f9ed8"
   ]
 }
+
